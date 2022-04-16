@@ -1,15 +1,18 @@
-# Basic Sample Hardhat Project
+REVOLT⚡Platform (Real Estate ~ Virtual Ownership ~ Land Transfer)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Reinventing and revolutionizing the real estate space w blockchain 🌍
 
-Try running some of the following tasks:
+Virtual Ownership
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+- Buy, sell, rent, and lease real estate land on the blockchain
+- Fractional ownership of land (Dividing the land into fractions and enabling trading)
+- Blockchain facilitates secure data sharing, streamlines rental collections and payments to property owners
+
+Land Transfer
+
+Land titles continue to rely on paper documentation, vulnerable to loss, fraud, and mismanagement
+
+- Blockchain replaces outdated paper deeds with true digital assets
+- Tracks changes on an immutable ledger that acts as a secure shared source of truth for documents between multiple parties and organizations.
+- Ethereum enables transaction and property ownership records to be more accessible
+- Facilitating market transactions, increasing investor confidence, unlocking access to finance, and promoting economic and social community development
